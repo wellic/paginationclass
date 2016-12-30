@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="Screenshot from 2016-12-30 14:38:43.png" width="100%" alt="pagination sample"/>
+<img align="center" src="paginationss.png" width="100%" alt="pagination sample"/>
 </p>
 # Simple Pagination CLass
 
